@@ -54,11 +54,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652391559,
-        "narHash": "sha256-ghoBlp+YBJ/NmJH2hqufuPAg4UOTS7nvJ1/Jhvm41Mk=",
+        "lastModified": 1652791982,
+        "narHash": "sha256-VJAHbuj5gLYRH6TakLNfpg9H9TBA7PC6VVzvMqUYHlE=",
         "owner": "nim-nix-pkgs",
         "repo": "sitmo",
-        "rev": "6c13088612475f4592080e973be700117db2286d",
+        "rev": "6344cb4c4ca9f6c2a5f0454da644ca3fccef35e8",
         "type": "github"
       },
       "original": {
@@ -81,11 +81,11 @@
       },
       "locked": {
         "dir": "v0_0_0",
-        "lastModified": 1652391559,
-        "narHash": "sha256-ghoBlp+YBJ/NmJH2hqufuPAg4UOTS7nvJ1/Jhvm41Mk=",
+        "lastModified": 1652791982,
+        "narHash": "sha256-VJAHbuj5gLYRH6TakLNfpg9H9TBA7PC6VVzvMqUYHlE=",
         "owner": "nim-nix-pkgs",
         "repo": "sitmo",
-        "rev": "6c13088612475f4592080e973be700117db2286d",
+        "rev": "6344cb4c4ca9f6c2a5f0454da644ca3fccef35e8",
         "type": "github"
       },
       "original": {
@@ -108,11 +108,11 @@
       },
       "locked": {
         "dir": "v0_0_1",
-        "lastModified": 1652391559,
-        "narHash": "sha256-ghoBlp+YBJ/NmJH2hqufuPAg4UOTS7nvJ1/Jhvm41Mk=",
+        "lastModified": 1652791982,
+        "narHash": "sha256-VJAHbuj5gLYRH6TakLNfpg9H9TBA7PC6VVzvMqUYHlE=",
         "owner": "nim-nix-pkgs",
         "repo": "sitmo",
-        "rev": "6c13088612475f4592080e973be700117db2286d",
+        "rev": "6344cb4c4ca9f6c2a5f0454da644ca3fccef35e8",
         "type": "github"
       },
       "original": {
@@ -135,11 +135,11 @@
       },
       "locked": {
         "dir": "v0_0_2",
-        "lastModified": 1652391559,
-        "narHash": "sha256-ghoBlp+YBJ/NmJH2hqufuPAg4UOTS7nvJ1/Jhvm41Mk=",
+        "lastModified": 1652791982,
+        "narHash": "sha256-VJAHbuj5gLYRH6TakLNfpg9H9TBA7PC6VVzvMqUYHlE=",
         "owner": "nim-nix-pkgs",
         "repo": "sitmo",
-        "rev": "6c13088612475f4592080e973be700117db2286d",
+        "rev": "6344cb4c4ca9f6c2a5f0454da644ca3fccef35e8",
         "type": "github"
       },
       "original": {
